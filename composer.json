@@ -1,0 +1,16 @@
+{
+    "name": "imaccurheal/twig",
+    "description": "My First Twig Engine Template",
+    "require": {
+        "twig/twig":"~1.0",
+        "cocur/slugify": "@stable"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jules Pierson",
+            "email": "jules.pierson@yahoo.fr"
+        }
+    ],
+    "minimum-stability": "stable"
+}
